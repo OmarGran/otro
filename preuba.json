@@ -1,0 +1,20 @@
+{
+    "external_reference": "NewRev_029",
+    "total_amount": 245.5,
+    "items": [
+        {
+            "sku_number": "A123K9191938",
+            "category": "marketplace",
+            "title": "Aceite 1 Lt",
+            "description": "Aceite Description",
+            "unit_measure": "unit",
+            "quantity": 1,
+            "unit_price": 245.5,
+            "total_amount": 245.5
+        }
+    ],
+    "title": "compra Aceite",
+    "description": "Aceite Bardhal 4lts",
+    "sponsor": {},
+    "notification_url": "https://hookb.in/W1DV7PPRERUMooQexqE9"
+}
